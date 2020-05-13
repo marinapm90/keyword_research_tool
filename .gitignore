@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# virtual_env
+kw_tool/
+
+#Draft
+Draft/
